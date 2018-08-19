@@ -1,0 +1,297 @@
+{
+    "gameId": 2849606637,
+    "gameStartTime": 1534713919125,
+    "platformId": "NA1",
+    "gameMode": "CLASSIC",
+    "mapId": 11,
+    "gameType": "MATCHED_GAME",
+    "gameQueueConfigId": 420,
+    "observers": {
+        "encryptionKey": "a5o/np9bAh1VHTC9yn4iqMKt1uGUp4cD"
+    },
+    "participants": [
+        {
+            "profileIconId": 3505,
+            "championId": 555,
+            "summonerName": "OdinPeeper",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8400,
+                "perkIds": [
+                    8439,
+                    8473,
+                    8429,
+                    8451,
+                    8143,
+                    8135
+                ],
+                "perkSubStyle": 8100
+            },
+            "spell2Id": 14,
+            "teamId": 100,
+            "spell1Id": 4,
+            "summonerId": 69500744
+        },
+        {
+            "profileIconId": 502,
+            "championId": 222,
+            "summonerName": "Buddha Burke",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8000,
+                "perkIds": [
+                    8021,
+                    9111,
+                    9104,
+                    8014,
+                    8234,
+                    8236
+                ],
+                "perkSubStyle": 8200
+            },
+            "spell2Id": 7,
+            "teamId": 100,
+            "spell1Id": 4,
+            "summonerId": 69120353
+        },
+        {
+            "profileIconId": 3556,
+            "championId": 17,
+            "summonerName": "Kazcade95",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8200,
+                "perkIds": [
+                    8214,
+                    8226,
+                    8234,
+                    8236,
+                    8473,
+                    8472
+                ],
+                "perkSubStyle": 8400
+            },
+            "spell2Id": 12,
+            "teamId": 100,
+            "spell1Id": 4,
+            "summonerId": 79741041
+        },
+        {
+            "profileIconId": 3556,
+            "championId": 111,
+            "summonerName": "Shadow of Lights",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8400,
+                "perkIds": [
+                    8439,
+                    8473,
+                    8429,
+                    8242,
+                    9111,
+                    9105
+                ],
+                "perkSubStyle": 8000
+            },
+            "spell2Id": 4,
+            "teamId": 100,
+            "spell1Id": 11,
+            "summonerId": 73146036
+        },
+        {
+            "profileIconId": 3186,
+            "championId": 99,
+            "summonerName": "Mia Kalistä",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8200,
+                "perkIds": [
+                    8214,
+                    8226,
+                    8210,
+                    8236,
+                    8009,
+                    8014
+                ],
+                "perkSubStyle": 8000
+            },
+            "spell2Id": 3,
+            "teamId": 100,
+            "spell1Id": 4,
+            "summonerId": 90579533
+        },
+        {
+            "profileIconId": 1296,
+            "championId": 36,
+            "summonerName": "SpookyPandaXpres",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8400,
+                "perkIds": [
+                    8437,
+                    8473,
+                    8444,
+                    8451,
+                    8304,
+                    8410
+                ],
+                "perkSubStyle": 8300
+            },
+            "spell2Id": 12,
+            "teamId": 200,
+            "spell1Id": 4,
+            "summonerId": 41906564
+        },
+        {
+            "profileIconId": 3554,
+            "championId": 22,
+            "summonerName": "PrajnaPie",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8000,
+                "perkIds": [
+                    8021,
+                    9111,
+                    9104,
+                    8014,
+                    8234,
+                    8236
+                ],
+                "perkSubStyle": 8200
+            },
+            "spell2Id": 4,
+            "teamId": 200,
+            "spell1Id": 7,
+            "summonerId": 76111543
+        },
+        {
+            "profileIconId": 3018,
+            "championId": 412,
+            "summonerName": "mark824743",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8400,
+                "perkIds": [
+                    8439,
+                    8473,
+                    8429,
+                    8451,
+                    8345,
+                    8347
+                ],
+                "perkSubStyle": 8300
+            },
+            "spell2Id": 4,
+            "teamId": 200,
+            "spell1Id": 14,
+            "summonerId": 82279878
+        },
+        {
+            "profileIconId": 558,
+            "championId": 45,
+            "summonerName": "Ophasus",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8200,
+                "perkIds": [
+                    8229,
+                    8226,
+                    8210,
+                    8236,
+                    8313,
+                    8347
+                ],
+                "perkSubStyle": 8300
+            },
+            "spell2Id": 21,
+            "teamId": 200,
+            "spell1Id": 4,
+            "summonerId": 65289350
+        },
+        {
+            "profileIconId": 684,
+            "championId": 141,
+            "summonerName": "BREACH D GATEZ",
+            "gameCustomizationObjects": [],
+            "bot": false,
+            "perks": {
+                "perkStyle": 8100,
+                "perkIds": [
+                    8112,
+                    8143,
+                    8136,
+                    8135,
+                    8232,
+                    8234
+                ],
+                "perkSubStyle": 8200
+            },
+            "spell2Id": 11,
+            "teamId": 200,
+            "spell1Id": 4,
+            "summonerId": 55966086
+        }
+    ],
+    "gameLength": 1954,
+    "bannedChampions": [
+        {
+            "teamId": 100,
+            "championId": 119,
+            "pickTurn": 1
+        },
+        {
+            "teamId": 100,
+            "championId": 245,
+            "pickTurn": 2
+        },
+        {
+            "teamId": 100,
+            "championId": 84,
+            "pickTurn": 3
+        },
+        {
+            "teamId": 100,
+            "championId": 81,
+            "pickTurn": 4
+        },
+        {
+            "teamId": 100,
+            "championId": 53,
+            "pickTurn": 5
+        },
+        {
+            "teamId": 200,
+            "championId": 86,
+            "pickTurn": 6
+        },
+        {
+            "teamId": 200,
+            "championId": 83,
+            "pickTurn": 7
+        },
+        {
+            "teamId": 200,
+            "championId": 157,
+            "pickTurn": 8
+        },
+        {
+            "teamId": 200,
+            "championId": 11,
+            "pickTurn": 9
+        },
+        {
+            "teamId": 200,
+            "championId": 238,
+            "pickTurn": 10
+        }
+    ]
+}
