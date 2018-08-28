@@ -13,7 +13,7 @@
         {
             "profileIconId": 3505,
             "championId": 555,
-            "summonerName": "OdinPeeper",
+            "summonerName": "fiddletricks",
             "gameCustomizationObjects": [],
             "bot": false,
             "perks": {
@@ -31,7 +31,7 @@
             "spell2Id": 14,
             "teamId": 100,
             "spell1Id": 4,
-            "summonerId": 69500744
+            "summonerId": 23465672
         },
         {
             "profileIconId": 502,
